@@ -1,0 +1,12 @@
+{
+  "name": "fieldservice-pdf-report-email",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "demo": "tsx src/report_delivery.ts",
+    "test": "tsx src/report_delivery.test.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0"
+  }
+}
